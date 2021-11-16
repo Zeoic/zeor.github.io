@@ -41,6 +41,10 @@
     height: 100%;
 }
 
+.card-body {
+    opacity: 50%;
+}
+
 .book-content {
     background-color: #000000!important;
 }
