@@ -28,7 +28,7 @@
     --input-box-font-color-focus: rgba(85, 85, 85);
 }
 
-body.bg-dark {
+.bg-dark {
     background: var(--bg-light);
     background-repeat: repeat, no-repeat;
     background-attachment: fixed, fixed;
