@@ -1,7 +1,3 @@
 .bg-dark {
     background-color: #002236!important;
 }
-
-.img-top:after {
-    content: url(" ");
-}
