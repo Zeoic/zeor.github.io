@@ -58,7 +58,7 @@
 }
 
 .not-read-badge {
-    border-color: transparent #CC7B19 transparent transparent;
+    border-color: transparent #CC7B19 transparent transparent!important;
 }
 
 .bg-dark a {
