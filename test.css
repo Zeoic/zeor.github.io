@@ -42,7 +42,23 @@
 }
 
 .navbar {
-    background-color: #1E2323;
+    background-color: #1E2323!important;
+}
+
+.nav-pills {
+    background-color: #CC7B19!important;
+}
+
+.bg-primary {
+    background-color: #CC7B19!important;
+}
+
+.card-title {
+    color: #CC7B19!important;
+}
+
+.bg-dark a {
+    background-color: #fff!important;
 }
 
 .card {
