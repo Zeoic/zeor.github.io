@@ -41,8 +41,8 @@
     height: 100%;
 }
 
-.card-body {
-    opacity: 50%;
+.card {
+    background-color: rgba(36, 36, 36, 0.5)
 }
 
 .book-content {
