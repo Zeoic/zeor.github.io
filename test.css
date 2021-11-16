@@ -45,7 +45,7 @@
     background-color: #1E2323!important;
 }
 
-.nav-link {
+.nav-link.active {
     background-color: #CC7B19!important;
 }
 
