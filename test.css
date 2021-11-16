@@ -41,8 +41,12 @@
     height: 100%;
 }
 
+.navbar {
+    background-color: #1E2323;
+}
+
 .card {
-    background-color: #00000066;
+    background-color: #00000066!important;
 }
 
 .book-content {
