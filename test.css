@@ -3,5 +3,5 @@
 }
 
 .img-top:after {
-    content: "";
+    content: url(" ");
 }
